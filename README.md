@@ -47,11 +47,7 @@ As part of the development team, I (Tan Po Yeh) was responsible for implementing
 
 To run this project:
 1. Clone the repository.
-2. Ensure you have Python and Java installed.
+2. Ensure you have Java installed.
 3. Run the backend logic using Python.
 4. Launch the UI with Java Swing.
 5. Explore as customer, vendor, or admin!
-
----
-
-Feel free to explore the code and contribute!
