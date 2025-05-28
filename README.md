@@ -7,7 +7,7 @@ Gastrogo is a food court management system designed to streamline the food order
 Developed as a Year 2 Semester 1 degree project. **I was responsible to develop the vendor role system**. The app,  Gastrogo allows customers to browse menus from various food vendors, place orders for dine-in, take-away, or delivery, and pay using a built-in credit system. Administrators manage user credit, while vendors are promptly notified to prepare orders and update customers when ready.
 
 The system is built using:
-- **Python** for backend logic with text-based file storage.
+- **Java** for backend logic with text-based file storage.
 - **Java Swing** for the graphical user interface.
 
 ## 🧑‍💻 Vendor Module (My Role)
