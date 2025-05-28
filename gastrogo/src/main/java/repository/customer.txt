@@ -1,0 +1,2 @@
+CustomerID,Name,Email,Phone,Password,Credit,Feedback
+C1,Chan Yun Qi,vinz@gmail.com,010-3891107,abcd,1548.52,null

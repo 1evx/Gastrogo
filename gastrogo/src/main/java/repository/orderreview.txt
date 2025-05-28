@@ -1,0 +1,10 @@
+VendorReviewID,VendorID,Rating,Review
+VR1,V1,null,null
+VR2,V1,null,null
+VR3,V1,5,good!
+VR4,V1,null,null
+VR5,V1,null,null
+VR6,V1,null,null
+VR7,V1,null,null
+VR8,V1,null,null
+VR9,V1,null,null
